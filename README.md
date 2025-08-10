@@ -5,5 +5,5 @@ This is the Pytorch implementation for our KGCR : Knowledge Graph Contrastive Le
 
 ## Notice
 > The current implementation is still under refinement.  
-> We will release the complete and cleaned codebase, along with documentation and usage instructions, once the organization process is finished.  
-> Thank you for your patience and interest!The current codebase is under development and not yet fully organized.
+> The training code for KGCR will be released after the associated paper is accepted.
+> We appreciate your interest and patience.
